@@ -29,7 +29,7 @@ variable "public_subnets" {
   }
 }
 
-variable "environmment" {
+variable "environment" {
   type        = string
   description = "(Optional) Environment to use for all resources in this module. Default: dev"
   default     = "dev"
