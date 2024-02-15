@@ -6,11 +6,4 @@ terraform {
     }
   }
 
-  cloud {
-    organization = "tf-deep-dive"
-
-  workspaces {
-      name = "tf-deep-dive"
-    }
-  }
 }
