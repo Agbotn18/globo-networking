@@ -1,7 +1,7 @@
 ##################################################################################
 # IMPORTS
 ##################################################################################
-
+/*
 import {
   to = module.main.aws_vpc.this[0]
   id = "vpc-057b83d2a0cb6861d" #VPC
@@ -46,3 +46,4 @@ import {
   to = aws_security_group.ingress
   id = "sg-0c593ac29e48fb884" #NoIngressSecurityGroup
 }
+*/
